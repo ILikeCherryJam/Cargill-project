@@ -1,0 +1,16 @@
+.hero {
+    height: calc(50vw);
+    
+    background:
+        linear-gradient(to bottom, #ffffff00 50%, white 100%),
+        url("../../../assets/images/sunset-field.jpg") no-repeat;
+
+    background-size: cover;
+    background-position: center;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+}
