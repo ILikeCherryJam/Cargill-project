@@ -1,0 +1,20 @@
+.advertise-card {
+    background-color: #333;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 25%;
+    height: auto;
+}
+.advertise-card h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.advertise-card p {
+    color: #333;
+    line-height: 1.5;
+}
+
+.advertise-el {
+    padding-bottom: 40px;
+}

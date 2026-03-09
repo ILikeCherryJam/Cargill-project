@@ -1,0 +1,13 @@
+.read-btn {
+    display: inline-block;
+    padding: 12px 15px;
+    background-color: #398239;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+.read-btn:hover {
+    background-color: #2e6b2e;
+}
