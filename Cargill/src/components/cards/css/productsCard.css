@@ -1,0 +1,15 @@
+.products-card {
+    width: 33%;
+    min-width: 250px;
+    height: 400px;
+}
+
+.products-img img {
+    display: block;
+    height: 268px;
+    background: #eee;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+}

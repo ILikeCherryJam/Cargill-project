@@ -1,5 +1,4 @@
 import "./css/hero.css";
-import Sunset from '../../assets/images/sunset-field.jpg';
 
 export default function Hero() {
     return (

@@ -27,11 +27,11 @@
 .hero-container h1 {
     font-family: 'Yellowtail', cursive;
     font-size: 56px;
-    color: #398245;
+    color: #00843D;
     font-weight: 500;
 }
 .hero-container p {
-    background-color: #398245;
+    background-color: #00843D;
     padding: 10px 20px;
     border-radius: 20px;
     font-size: 20px;

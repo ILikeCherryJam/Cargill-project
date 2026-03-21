@@ -39,7 +39,7 @@ export default function Purpose() {
                     </div>
                     <img src={purposeImg} alt="Purpose" />
                 </div>
-                <ReadButton text="More about Cargill" link="../../about" />
+                <ReadButton text="More about Cargill" link="/about" />
             </div>
         </section>
     )

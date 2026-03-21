@@ -1,13 +1,13 @@
 import './css/footer.css';
-import YoutubeLogo from "../../assets/logos/youtube.png";
-import InstagramLogo from "../../assets/logos/inst.png";
-import LinkedInLogo from "../../assets/logos/linked.png";
-import FacebookLogo from "../../assets/logos/face.jfif";
+import YoutubeLogo from "../../assets/icons/youtube.png";
+import InstagramLogo from "../../assets/icons/inst.png";
+import LinkedInLogo from "../../assets/icons/linked.png";
+import FacebookLogo from "../../assets/icons/face.jfif";
 
 export default function Footer() {
     return (
-        <section className="footer">
-            <div className="footer-content">
+        <section className="footer">  
+            <div className="footer-container">
                 <div className="contact-container">
                     <a href="" className="contact-btn">
                         <img src={YoutubeLogo} alt="logo" />
@@ -22,11 +22,11 @@ export default function Footer() {
                         <img src={FacebookLogo} alt="logo" />
                     </a>
                 </div>
-                <a href="" className="contact">
-
+                <a href="" className="footer-contact">
+                    Contact Us
                 </a>
                 <p className="footer-cargill">
-
+                    © 2026 Cargill, Incorporated. All rights reserved.
                 </p>
             </div>
         </section>

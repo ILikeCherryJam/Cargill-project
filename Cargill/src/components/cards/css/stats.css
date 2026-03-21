@@ -1,0 +1,36 @@
+.stats-box {
+    border: solid 1px #00843D;
+    border-radius: 20px;
+
+    width: 24%;
+    min-width: 250px;
+    height: 200px;
+}
+.stats-box h1 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #00843D;
+    line-height: 20px;
+}
+.stats-box p {
+    font-size: 18px;
+    color: #00843D;
+}
+
+.stats-content_margin {
+    margin: 0px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.stats-desc_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stats-desc_container img {
+    width: 50px;
+    height: 50px;
+}

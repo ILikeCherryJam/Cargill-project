@@ -33,3 +33,10 @@
 .header-container img {
     height: 30px;
 }
+.header-container Link {
+    text-decoration: none;
+}
+
+a:-webkit-any-link {
+    text-decoration: none;
+}
