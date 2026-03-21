@@ -1,7 +1,15 @@
+import Footer from "../components/cards/Footer"
+import Hero from "../components/!contactsPage/Hero"
+import Address from "../components/!contactsPage/Address"
+import QuestionsBlock from "../components/!contactsPage/QuestionsBlock"
+
 export default function Contacts() {
-  return (
-    <section className="contacts">
-      <h1>Contacts</h1>
-    </section>
-  );
+    return (
+        <>
+            <Hero />
+            <Address />
+            <QuestionsBlock />
+            <Footer />
+        </>
+    )
 }

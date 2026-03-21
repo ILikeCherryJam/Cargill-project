@@ -7,6 +7,7 @@ export default function Products() {
     <>
       <Title />
       <ProductsBlock />
+      <Footer />
     </>
   );
 }

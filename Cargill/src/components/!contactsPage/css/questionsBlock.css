@@ -1,0 +1,13 @@
+.questions-block {
+    margin-bottom: 50px;
+}
+
+.questions-title {
+    display: flex;
+    justify-content: center;
+}
+.questions-title h1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #00843D;
+}

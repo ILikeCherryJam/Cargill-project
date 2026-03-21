@@ -1,0 +1,36 @@
+.address {
+    background-color: #03441F;
+    border-radius: 20px;
+
+    color: #fff;
+
+    margin-bottom: 100px;
+}
+
+
+.address_container {
+    padding: 50px 0;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.address-text_wrapper h1 {
+    font-size: 48px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 0.1;
+}
+.addresses-description {
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+
+.addresses-wrapper p {
+    font-size: 18px;
+}
+.addresses-wrapper a {
+    color: #fff;
+
+    font-size: 18px;
+    text-decoration: underline !important;
+}

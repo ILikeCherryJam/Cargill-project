@@ -14,8 +14,10 @@ export default function ProductsCard(props) {
                 className="products-img"
                 style={style}
             ></div>
-            <h1 className="title">{props.title}</h1>
-            <p className="description">{props.description}</p>
+            <div className="products-text">
+                <h1>{props.title}</h1>
+                <p>{props.description}</p>
+            </div>
         </div>
     )
 }

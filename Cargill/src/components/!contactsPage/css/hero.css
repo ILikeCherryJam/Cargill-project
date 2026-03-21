@@ -1,0 +1,53 @@
+.contacts-hero {
+    margin: 100px;
+}
+
+.contacts-hero_container {
+    width: auto;
+    height: 450px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    background-image: 
+        linear-gradient(to right, rgba(0, 0, 0, 0.7), transparent),
+        url("../../../assets/images/cargill-contact-us-banneer-sized.jpg");
+    background-size: cover;
+
+    border-radius: 20px;
+}
+.contacts-hero_container {
+    color: #fff;
+}
+.contacts-hero_container h1 {
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 0.1;
+    margin-bottom: 75px;
+}
+.contacts-hero_container p {
+    font-size: 18px;
+    line-height: 2;
+    margin-bottom: 50px;
+}
+.contacts-hero_container a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+
+    border: solid 3px #fff;
+    border-radius: 10px;
+
+    padding: 10px;
+}
+.contacts-hero_container a:hover {
+    border: solid 3px #00843D;
+    background-color: #00843D;
+}
+
+.contacts-text_wrapper {
+    padding: 50px;
+    max-width: 600px;
+}
