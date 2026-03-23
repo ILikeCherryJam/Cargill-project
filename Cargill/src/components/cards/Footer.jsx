@@ -9,16 +9,16 @@ export default function Footer() {
         <section className="footer">  
             <div className="footer-container">
                 <div className="contact-container">
-                    <a href="" className="contact-btn">
+                    <a href="https://www.youtube.com/cargill" className="contact-btn">
                         <img src={YoutubeLogo} alt="logo" />
                     </a>
-                    <a href="" className="contact-btn">
+                    <a href="https://www.instagram.com/cargill/" className="contact-btn">
                         <img src={InstagramLogo} alt="logo" />
                     </a>
-                    <a href="" className="contact-btn">
+                    <a href="https://www.linkedin.com/company/cargill" className="contact-btn">
                         <img src={LinkedInLogo} alt="logo" />
                     </a>
-                    <a href="" className="contact-btn">
+                    <a href="https://www.facebook.com/cargill" className="contact-btn">
                         <img src={FacebookLogo} alt="logo" />
                     </a>
                 </div>
