@@ -26,7 +26,7 @@ export default function AdContainer() {
                         title="News"
                         description="With operations in 70 countries, Cargill and our customers are making news around the globe. Here are some of the latest stories."
                         readBtn="More News"
-                        btnLink="/news"
+                        btnLink="https://www.cargill.com/2026/new-index-reveals-gaps-in-global-food-system-resilience-and-how"
                         backColor="#fff"
                         textColor="#00843D"
                     />

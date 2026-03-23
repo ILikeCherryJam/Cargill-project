@@ -1,0 +1,149 @@
+@media (max-width: 1000px) {
+    
+    /*FOOTER*/
+    .footer-container {
+        align-items: center;
+    }
+
+    /*AD-CONTAINER*/
+    .ad-container {
+        flex-direction: column;
+    }
+    .advertise-card {
+        max-width: 75% !important;
+        margin: 10px 0  ;
+    }
+
+    /*PURPOSE*/
+    .purpose-container {
+        flex-direction: column;
+    }
+    .purpose-container img {
+        max-width: 75% !important;
+        margin-bottom: 20px;
+    }
+
+    /*HEADER*/
+    .header-container {
+        min-width: 200px !important;
+        width: 75% !important;
+    }
+
+    .menu-bottom.active {
+        display: block !important;
+    }
+
+    .header-item {
+        display: none;
+    }
+    .header-menu__btn {
+        display: flex !important;
+    }
+
+    
+    /* "ABOUT" PAGE*/
+
+
+    /*HERO*/
+    .about-hero_desc h1 {
+        font-size: 24px;
+    }
+
+    /*STATS*/
+    .stats-box {
+        width: 75% !important;
+        margin: 10px 0;
+    }
+
+    .stats-container_wrapper {
+        justify-content: center !important;
+    }
+
+    /*INFO BLOCK*/
+    .info-block {
+        padding: 0 !important;
+    }
+
+    .info-block_wrapper {
+        flex-direction: column;
+    }
+    .info-block_wrapper h1 {
+        font-size: 24px !important;
+    }
+    .info-block_wrapper p {
+        font-size: 16px !important;
+    }
+
+    .media-active.img-vanish {
+        display: block ;
+    }
+    .media-vanish {
+        display: none;
+    }
+
+
+    /*PRODUCTS PAGE*/
+
+
+    /*TITLE*/
+    .products-title_container h1 {
+        line-height: 1 !important;
+        font-size: 32px !important;
+    }
+
+    .products-block_container {
+        justify-content: center;
+    }
+
+
+    /*CONTACTS PAGE*/
+
+
+    /*HERO*/
+    .contacts-hero_container {
+        height: 300px !important;
+    }
+    .contacts-hero_container h1 {
+        font-size: 30px !important;
+        line-height: 0.1;
+        margin-bottom: 35px !important;
+    }
+    .contacts-hero_container p {
+        font-size: 16px !important;
+        line-height: 1.3 !important;
+        margin-bottom: 30px !important;
+    }
+    .contacts-hero_container a {
+        font-weight: 600;
+        font-size: 18px;
+    }
+
+    .contacts-text_wrapper {
+        padding: 50px 20px !important;
+    }
+
+    /*ADDRESS*/
+    .address {
+        border-radius: 0px !important;
+    }
+    
+    .address_container {
+        flex-direction: column;
+        padding: 10px 0 !important;
+    }
+
+    .address-text_wrapper h1 {
+        font-size: 32px !important;
+        line-height: 1 !important;
+    }
+
+    .addresses-description {
+        margin-bottom: 30px !important;
+        margin-top: 30px !important;
+    }
+
+    .address_container img {
+        padding: 20px 0;
+    }
+
+}

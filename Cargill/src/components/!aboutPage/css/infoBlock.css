@@ -32,3 +32,8 @@
 .info-block_text {
     padding: 0 50px;
 }
+
+
+.img-vanish {
+    display: none;
+}
